@@ -1,6 +1,0 @@
-<html>
-<title>git hub</title>
-<head>
-<body>welcome to my git repository</body>
-</head>
-</html>
